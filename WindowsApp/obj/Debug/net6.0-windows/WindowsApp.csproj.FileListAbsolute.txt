@@ -1,0 +1,68 @@
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.exe
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.deps.json
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.runtimeconfig.json
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.pdb
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.AssemblyReference.cache
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.GenerateResource.cache
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.AssemblyInfoInputs.cache
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.AssemblyInfo.cs
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\refint\WindowsApp.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.pdb
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.genruntimeconfig.cache
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\ref\WindowsApp.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.CadastroCandidato.resources
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.CadastroEmpresa.resources
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.dll.config
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\Domain.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\Persistence.dll
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\Domain.pdb
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\Persistence.pdb
+C:\Users\Yukie Takahashi\Documents\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.CopyComplete
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.exe
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.dll.config
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.deps.json
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.runtimeconfig.json
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.pdb
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\Domain.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\Persistence.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\Domain.pdb
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\bin\Debug\net6.0-windows\Persistence.pdb
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.AssemblyReference.cache
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.CadastroCandidato.resources
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.CadastroEmpresa.resources
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.CandidatoOuEmpresa.resources
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.Inicial.resources
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.LoginCandidato.resources
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.LoginEmpresa.resources
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.Properties.Resources.resources
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.GenerateResource.cache
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.AssemblyInfoInputs.cache
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.AssemblyInfo.cs
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\refint\WindowsApp.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.pdb
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.genruntimeconfig.cache
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\ref\WindowsApp.dll
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.Profissoes.resources
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.Candidatar.resources
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.sourcelink.json
+C:\Users\lilit\OneDrive\Documentos\faculdade\2022-1\poo\projetopoo\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.Up2Date
