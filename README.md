@@ -1,2 +1,2 @@
-# recolocacao-profissional
+# Recolocação Profissional
  Este projeto foi desenvolvido com o objetivo de facilitar a conexão entre profissionais em busca de uma nova oportunidade de emprego e recrutadores que estão em busca de talentos. A plataforma oferece funcionalidades tanto para candidatos quanto para recrutadores. O sistema foi desenvolvido em C# e tem como foco promover a recolocação profissional de forma eficiente, simples e acessível.
